@@ -12,6 +12,7 @@
 
 ### 2.1. MOTIVACIÓN
 > Introducir el análisis de imágenes/video al implementar las siguientes operaciones de análisis para imágenes/video tanto por software como por hardware (empleando shaders):
+
 Introducir el análisis de imágenes/video al implementar las siguientes operaciones de análisis para imágenes/video tanto por software como por hardware (empleando shaders):
 
 ### 2.2. OBJETIVOS
