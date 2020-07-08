@@ -24,9 +24,10 @@ Como motivación trabajamos y análisamos los dados enfocados a la contaminació
 
 ### 2.2. OBJETIVOS
 1.Implementar el proyecto propuesto para la visualización de información relacionada con los niveles de contaminación de la ciudad de Bogotá.
-2.Manipular información de otras fuentes con el propósito de transformarla para ser interpretada por otro usuario por medio de una aplicación web.
+2.Manipular información de otras fuentes con el propósito de transformarla para ser interpretada por otro usuario por medio de una página web.
 3.Exponer y demostrar las habilidades adquiridas en la asignatura y otras habilidades de autoaprendizaje.
 4.Fortalecer habilidades para el trabajo en equipo, manejo de herramientas conjuntas y autoaprendizaje.
+5.Implementar el desarrollo de herramientas que permiten manejar y procesar datos
 
 ### 2.3. METODOLOGÍA
 
