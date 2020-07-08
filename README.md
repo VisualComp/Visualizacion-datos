@@ -1,7 +1,7 @@
 # Proyecto 1 - Computación Visual
 ## Universidad Nacional de Colombia
 
-# NIVELES DE CONTAMINACIÓN EN BOGOTÁ EN EL AÑO 2019
+## NIVELES DE CONTAMINACIÓN EN BOGOTÁ EN EL AÑO 2019
 ### Presencia de partículas tipo PM2.5 en las diferentes estaciones de la ciudad
 
 ### David Styven Nieto Marin - dsnietom@unal.edu.co - dsnietom
