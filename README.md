@@ -2,7 +2,7 @@
 ## Universidad Nacional de Colombia
 
 # NIVELES DE CONTAMINACIÓN EN BOGOTÁ EN EL AÑO 2019
-# Presencia de partículas tipo PM2.5 en las diferentes estaciones de la ciudad
+### Presencia de partículas tipo PM2.5 en las diferentes estaciones de la ciudad
 
 ### David Styven Nieto Marin - dsnietom@unal.edu.co - dsnietom
 ### Luis Gerson Avendaño Alvira - lgavendanoa@unal.edu.co - baskecho
