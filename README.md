@@ -35,8 +35,13 @@ Como motivación trabajamos y análisamos los dados enfocados a la contaminació
 ![Error en imagen](./resources/opendata.jpg)
 La búsqueda nos llevó a encontrar datos acerca de **La ubicación de las estaciones que miden la calidad del aire** y una colección de datos sobre **La presencia de partículas PM2.5 en cada estación durante el año 2019**.
 
+La herramienta Flourish (https://flourish.studio) es especialmente enfocada a la visualización de datos, aprovechando sus funcionalidades se ha obtenido un par de representaciones gráficas (mapa y barras) con el fin de analizar los datos recolectados.
 ![Error en imagen](./resources/flourish.jpg)
+
+A pesar de su gran utilidad no permite generar mapas de calor, para lo cual hemos usado la herramienta de Excel llamada **Power map**, que de una manera adecuada nos permite mostar la información en mapas de calor y generar una colección de escenas que nos permitieron ver una secuencia sobre como cambia los niveles de concentración de la contaminación a travez del año en Bogotá.
 ### 2.4. RESULTADOS
+
+En la página web (https://visualcomp.github.io/Visualizacion-datos/index.html) se tuvo como propósito mostrar un análisis y posibles soluciones a problemas relacionados con la contaminación en la ciudad. Destinado a cualquier usuario que viva en Bogotá, pues enseña la información sintetizada y representada gráficamente, para su fácil compresnsión y entendimiento.
 ![Error en imagen](./resources/powermap.jpg)
 ### 2.5. CONCLUSIONES
 
