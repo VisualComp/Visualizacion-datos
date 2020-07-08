@@ -13,7 +13,7 @@
 ### 2.1. MOTIVACIÓN
 El proyecto propuesto  para el módulo de visualización de la información se realizó con el fin de practicar y ampliar los conocimientos adquiridos en el curso de **Computación Visual** impartido por el profesor *Jean Pierre Charalambos Hernández*, adicional a eso, se realizó investigación que agregó valor a lo aprendido al ayudar y mejorar las destrezas en el desarrollo de aplicaciones con un alto enfoque visual.
 
-<<<<<<< HEAD
+
 El proyecto propuesto  para el módulo de visualización de la información se realizó con el fin de practicar y ampliar los conocimientos adquiridos en el curso de Computación Visual impartido por el profesor Jean Pierre Charalambos Hernández, adicional a eso, se realizó investigación que agregó valor a lo aprendido al ayudar y mejorar las destrezas en el desarrollo de aplicaciones y soluciones con un alto enfoque visual.
 
 La visualización de datos es un proceso de interpretación, búsqueda, análisis y estudios que permite 
@@ -23,6 +23,10 @@ Como motivación trabajamos y análisamos los dados enfocados a la contaminació
 =======
 
 ### 2.2. OBJETIVOS
+1.Implementar el proyecto propuesto para la visualización de información relacionada con los niveles de contaminación de la ciudad de Bogotá.
+2.Manipular información de otras fuentes con el propósito de transformarla para ser interpretada por otro usuario por medio de una aplicación web.
+3.Exponer y demostrar las habilidades adquiridas en la asignatura y otras habilidades de autoaprendizaje.
+4.Fortalecer habilidades para el trabajo en equipo, manejo de herramientas conjuntas y autoaprendizaje.
 
 ### 2.3. METODOLOGÍA
 
