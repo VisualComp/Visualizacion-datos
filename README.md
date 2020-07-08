@@ -41,8 +41,9 @@ La herramienta Flourish (https://flourish.studio) es especialmente enfocada a la
 A pesar de su gran utilidad no permite generar mapas de calor, para lo cual hemos usado la herramienta de Excel llamada **Power map**, que de una manera adecuada nos permite mostar la información en mapas de calor y generar una colección de escenas que nos permitieron ver una secuencia sobre como cambia los niveles de concentración de la contaminación a travez del año en Bogotá.
 ### 2.4. RESULTADOS
 
-En la página web (https://visualcomp.github.io/Visualizacion-datos/index.html) se tuvo como propósito mostrar un análisis y posibles soluciones a problemas relacionados con la contaminación en la ciudad. Destinado a cualquier usuario que viva en Bogotá, pues enseña la información sintetizada y representada gráficamente, para su fácil compresnsión y entendimiento.
+En la página web (https://visualcomp.github.io/Visualizacion-datos/index.html) se tuvo como propósito mostrar un análisis y posibles soluciones a problemas relacionados con la contaminación en la ciudad. Destinado a cualquier usuario que viva en Bogotá, pues enseña la información sintetizada y representada gráficamente, para su fácil comprensión y entendimiento.
 ![Error en imagen](./resources/powermap.jpg)
 ### 2.5. CONCLUSIONES
-
-### 2.6. TRABAJO DE INDAGACIÓN FUTURO SUSCITADO
+1.Existe una gran cantidad de datos abiertos sobre cualquier tema o problematica, para ser tratados y estudiados con una variada cantidad de herramientas que facilitan este proceso. &nbsp;
+2.La visualización de datos es un proceso que puede ayudar a encontrar soluciones a diferentes problemas.
+3.La visualización de datos permite llegar a ofrecer una información clara y detallada luego de una recolección de datos, pero más que eso, es una herramienta demasiado útil en el proceso de la solución a problemas de la cotidianidad.
