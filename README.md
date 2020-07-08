@@ -30,6 +30,11 @@ Como motivación trabajamos y análisamos los dados enfocados a la contaminació
 5.Implementar el desarrollo de herramientas que permiten manejar y procesar datos
 
 ### 2.3. METODOLOGÍA
+
+1Hemos decidido usar los datos abiertos de la ciudad de Bogotá (https://datosabiertos.bogota.gov.co) para obtener información acerca de la presencia de partículas contaminantes en el aire de nuestra ciudad.
+![Error en imagen](./resources/opendata.jpg)
+La búsqueda nos llevó a encontrar datos acerca de **La ubicación de las estaciones que miden la calidad del aire** y una colección de datos sobre **La presencia de partículas PM2.5 en cada estación durante el año 2019**.
+
 ![Error en imagen](./resources/flourish.jpg)
 ### 2.4. RESULTADOS
 ![Error en imagen](./resources/powermap.jpg)
