@@ -45,5 +45,7 @@ En la página web (https://visualcomp.github.io/Visualizacion-datos/index.html) 
 ![Error en imagen](./resources/powermap.jpg)
 ### 2.5. CONCLUSIONES
 1.Existe una gran cantidad de datos abiertos sobre cualquier tema o problematica, para ser tratados y estudiados con una variada cantidad de herramientas que facilitan este proceso. &nbsp;
+
 2.La visualización de datos es un proceso que puede ayudar a encontrar soluciones a diferentes problemas.
+
 3.La visualización de datos permite llegar a ofrecer una información clara y detallada luego de una recolección de datos, pero más que eso, es una herramienta demasiado útil en el proceso de la solución a problemas de la cotidianidad.
