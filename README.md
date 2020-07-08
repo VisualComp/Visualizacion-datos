@@ -20,6 +20,7 @@ Introducir el análisis de imágenes/video al implementar las siguientes operaci
 ### 2.3. METODOLOGÍA
 
 ### 2.4. RESULTADOS
+![Error en imagen](./resources/powermap.jpg)
 
 ### 2.5. CONCLUSIONES
 
