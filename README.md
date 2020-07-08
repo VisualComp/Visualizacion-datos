@@ -18,7 +18,7 @@ Introducir el análisis de imágenes/video al implementar las siguientes operaci
 ### 2.2. OBJETIVOS
 
 ### 2.3. METODOLOGÍA
-
+![Error en imagen](./resources/flourish.jpg)
 ### 2.4. RESULTADOS
 ![Error en imagen](./resources/powermap.jpg)
 
